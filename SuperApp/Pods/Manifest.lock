@@ -1,0 +1,16 @@
+PODS:
+  - ASValidator (0.1.17)
+
+DEPENDENCIES:
+  - ASValidator (= 0.1.17)
+
+SPEC REPOS:
+  trunk:
+    - ASValidator
+
+SPEC CHECKSUMS:
+  ASValidator: d6f0a9bd72469b871862b73c993114ab8844abe0
+
+PODFILE CHECKSUM: 6a260684c3971e19d58b77ecc80dbd4404848769
+
+COCOAPODS: 1.10.0
